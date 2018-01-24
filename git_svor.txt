@@ -8,11 +8,11 @@ Git spurningar og svör
 	mkdir  býr til möppu
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	git clone     Býr til repository í nýrri möppu
+	git log		  Sýnir commit sögu
+	git status	  sýnir breytingar sem hafa verið gerðar frá seinasta push
+	git diff	  sýnir breytingar á milli commits eða working tree
+	git checkout  skiptir branch eða eyðir breytingum frá og með working tree skrám
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
