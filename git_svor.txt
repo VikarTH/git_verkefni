@@ -34,6 +34,7 @@ Git spurningar og svör
 	repository er endastaður fyrir allar breytingar sem maður vill gera
 	
 8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Þegar maður vill fara nýja leið með verkefni
 
 9.	Hver fann upp GIT?
 
