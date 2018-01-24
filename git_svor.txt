@@ -22,7 +22,7 @@ Git spurningar og svör
 4. 	Hvað er útgáfustýring (e.version control)? 
 	að velja útgáfu af einhverjum skrám
 5.	Hverjir eru helstu kostir við að nota GIT?
-	
+	Að geta unnið með öðrum í sömu möppu og skráð allar breytingar frá notendum
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
