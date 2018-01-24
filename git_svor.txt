@@ -15,14 +15,14 @@ Git spurningar og svör
 	git checkout  skiptir branch eða eyðir breytingum frá og með working tree skrám
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff 					til að sjá breytingar sem hafa verið gerðar
+	b) git diff --staged 			sýnir breytingar sem koma á næsta commit
+	c) git diff commit1 commit2		ber saman breytingar frá commit1 og commit2
 
 4. 	Hvað er útgáfustýring (e.version control)? 
-
+	að velja útgáfu af einhverjum skrám
 5.	Hverjir eru helstu kostir við að nota GIT?
-
+	
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
