@@ -37,5 +37,6 @@ Git spurningar og svör
 	Þegar maður vill fara nýja leið með verkefni
 
 9.	Hver fann upp GIT?
-
+	Linus Torvalds
+	
 10.	Hvar er GIT helst notað?
