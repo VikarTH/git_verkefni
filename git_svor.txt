@@ -40,3 +40,4 @@ Git spurningar og svör
 	Linus Torvalds
 	
 10.	Hvar er GIT helst notað?
+	fyrir forritara eða fólk sem er að vinna í einhverjum sameginlegum skrám
