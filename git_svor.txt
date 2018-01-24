@@ -21,18 +21,14 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 	að velja útgáfu af einhverjum skrám
-	
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Að geta unnið með öðrum í sömu möppu og skráð allar breytingar frá notendum
-	
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Eftir að maður hefur gert merkilega breytingu og veit að allt virki eða eftir 30 mín
-	
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 	Working directory er mappan sem maður er í
 	Staging area er næstu breytingar sem eiga eftir að vera commitaðar
 	repository er endastaður fyrir allar breytingar sem maður vill gera
-	
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	Þegar maður vill fara nýja leið með verkefni
 
